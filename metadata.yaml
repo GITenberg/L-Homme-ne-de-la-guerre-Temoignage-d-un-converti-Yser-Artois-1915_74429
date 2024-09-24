@@ -1,0 +1,27 @@
+_repo: L-Homme-ne-de-la-guerre-Temoignage-d-un-converti-Yser-Artois-1915_74429
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ghéon, Henri
+    gutenberg_agent_id: '57502'
+    url: http://www.gutenberg.org/2009/agents/57502
+description: ''
+gutenberg_issued: '2024-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74429'
+language: fr
+pgterms:marc904: https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001104977876
+pgterms:marc905: 20240831155532ghon
+pgterms:marc906: '1919'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque municipale de Lyon (SJ S 400/130))
+publication_note: '  $aParis :$bGallimard, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'Homme né de la guerre. Témoignage d'un converti (Yser-Artois, 1915)
+url: http://www.gutenberg.org/ebooks/74429
